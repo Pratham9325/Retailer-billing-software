@@ -1,0 +1,36 @@
+	 	 	 **Welcome Customer**
+Bill Number: 333
+Customer Name: Pratham
+Customer Phone Number: Mistari
+
+================================================================================
+Product					Qunatity				Price
+================================================================================
+Bath Soap					1				20 Rs
+Face cream					1				50 Rs
+face wash					2				200 Rs
+hair spray					6				900 Rs
+body lotion					1				60 Rs
+Hair Gail					1				60 Rs
+Rice					1				200 Rs
+Oil					1				30 Rs
+Daal					1				36 Rs
+Aata					1				100 Rs
+Mugdaal					1				36 Rs
+Mugdaal					1				36 Rs
+Milk					1				25 Rs
+Maza					1				50 Rs
+Pepsi					1				30 Rs
+Sprite					5				200 Rs
+Cocacola					1				40 Rs
+Fanta					1				70 Rs
+Limkha					1				40 Rs
+
+--------------------------------------------------------------------------------
+Cosmetic Tax						157.2 Rs
+Grocery Tax						21.35 Rs
+Drink Tax						34.4 Rs
+--------------------------------------------------------------------------------
+ 
+Total Bill 					2167
+--------------------------------------------------------------------------------
